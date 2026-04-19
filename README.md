@@ -1,5 +1,3 @@
-# i23-XXXX-NLP-Assignment2
-
 PyTorch-from-scratch implementation for:
 - Part 1: TF-IDF, PPMI, Skip-gram Word2Vec
 - Part 2: POS + NER sequence labeling with 2-layer BiLSTM (custom CRF for NER)
@@ -51,12 +49,3 @@ Outputs:
 - models/transformer_metrics.json
 - models/transformer_curves.png
 
-## Notebook
-
-Notebook entry point:
-- notebooks/i23-XXXX_Assignment2_DS-X.ipynb
-
-## Repository URL
-
-Replace this with your final public URL after push:
-- https://github.com/<your-username>/i23-XXXX-NLP-Assignment2
