@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Keep generated outputs versioned only if needed by instructor
